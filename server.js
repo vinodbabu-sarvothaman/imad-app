@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/', function (req, res) {
-  res.send('Welcome to Vinods Page');
+  res.send(' Welcome to Vinods Page');
 });
 
 app.get('/ui/style.css', function (req, res) {
